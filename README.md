@@ -33,4 +33,12 @@ temp = *a
 *a = *b
 *b = temp
 
+## Print values algorithm
+
+given int pointer for values array
+print "["
+step through array
+    print each value + space
+print newline
+print "]"
 
